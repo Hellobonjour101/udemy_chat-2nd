@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(240, 240, 240, 0.911);
+}
+.container{
+    max-width: 600px;
+}
+.btn{
+    background: #43d9be;
+    color: white;
+    outline: none !important;
+    box-shadow: none !important;
+}
+.btn:focus{
+    outline: none !important;
+}
+.deleteBtn{
+    background: rgba(255, 0, 0, 0.8);
+    float: right;
+}
+.update-mssg{
+    text-align: center;
+    margin: 20px auto;
+}
